@@ -1,1 +1,1 @@
-# mochi
+This is open source.
